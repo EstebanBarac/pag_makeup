@@ -1,0 +1,28 @@
+.navbar {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.col {
+    margin-top: 60px;
+}
+
+.row {
+    margin-left: 20px;
+}
+
+#footer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#footer p {
+    margin: 20px;
+}
